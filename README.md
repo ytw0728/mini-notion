@@ -1,3 +1,10 @@
+# 이사갔어요 🚚💨💨
+
+pr 등록이 불편할 듯 하여,   
+https://github.com/ytw0728/mini-notion-copy 레포로 이사갔습니다!  
+main 브랜치의 commit 내역이 같아서 위 리포를 fork 후 remote origin 변경으로 작업 이어가실 수 있습니다.   
+신규로 clone 받으시는 분들은 위 레포에서 받아주세요. (현재 레포엔 README 변경 커밋이 추가되어 있습니다.)
+
 # Woowahan Tech Learning 2021, mini-notion
 
 우아한테크러닝 4기를 참여하면서 활용한 저장소입니다.
